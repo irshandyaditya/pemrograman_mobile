@@ -1,0 +1,19 @@
+Soal 3
+
+Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
+
+jawaban :
+Rangkuman Materi:
+
+Dart menggabungkan keunggulan bahasa tingkat tinggi dengan fitur modern seperti productive tooling (analis kode, plugin IDE, ekosistem paket), garbage collection, type annotations opsional, statically typed, dan portabilitas untuk berbagai platform (web, mobile, native). Memahami dasar Dart memudahkan produktivitas di Flutter.
+
+Dart diluncurkan pada 2011, awalnya untuk web development. Dengan Dart 2.0 (2018), fokusnya bergeser ke mobile development melalui Flutter. Dart memecahkan keterbatasan JavaScript dan memberikan performa serta alat pengembangan yang kuat dengan fleksibilitas OOP.
+
+Dart dieksekusi melalui Dart VM (menggunakan JIT untuk pengembangan dengan hot reload) dan JavaScript compilation untuk web. Kompilasi AOT meningkatkan performa dengan mengkompilasi kode sebelum runtime. Dart menggunakan sintaks yang familiar dengan bahasa seperti C dan JavaScript.
+
+Object-oriented: Dart adalah bahasa berorientasi objek dengan fitur encapsulation, inheritance, dan polymorphism.
+Operators: Dart mendukung operator standar seperti aritmatika, increment, equality, relational, dan logical operators, yang dapat dimodifikasi tergantung kelas objeknya.
+
+Terakhir terdapat percobaan menggunakan dartpad. Pada percobaan tersebut, kita melakukan percobaan untuk melakukan run terhadap kode yang berisi looping dan di dalam looping tersebut terdapat print dari hello dan variabel i yang berisi angka counter.
+
+Dengan fitur-fitur modern dan fleksibilitas, Dart menjadi pilihan utama untuk pengembangan lintas platform bersama Flutter.
