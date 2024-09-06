@@ -1,7 +1,5 @@
 void main() {
-  var umur = 18;
-  var nama = 'fulan'; 
-  for (int i = 0; i < 10; i++) {
-    print('Nama saya adalah $nama, sekarang berumur ${umur--}');
+  for (int i = 18; i > 8; i--) {
+    print('Nama saya adalah Fulan, sekarang berumur $i');
   }
 }
