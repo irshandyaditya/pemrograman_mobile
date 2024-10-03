@@ -1,0 +1,17 @@
+Irshandy Aditya Wicaksana
+TI-3A / 16
+2241720148
+
+tugas no 1.
+
+Praktikum 1:
+
+Membandingkan nilai test di setiap percabangan if, Ketika nilai test sesuai dengan yang dibandingkan, akan menampilkan outputnya. Pada Langkah ke-3, mengubah variabel test menjadi true dan membandingkannya pada percabangan if. Karena benar, dia menampilkan output berupa Kebenaran.
+
+Praktikum 2:
+
+Melakukan perulangan. Perulangan pertama adalah while yaitu jika kondisi sesuai, maka kode akan dieksekusi. Kemudian perulangan berikutnya adalah do-while yaitu dia akan mengeksekusi kode 1 kali terlebih dahulu baru akan dicek kondisinya apakah memenuhi. Jika tidak memenuhi, perulangan akan distop.
+
+Praktikum 3: 
+
+Melakukan perulangan for yang dimulai dari 10 hingga index bernilai kurang dari 27 yang akan diincrement setiap perulangannya. Ketika nilai index lebih besar dari 1 atau lebih kecil dari 7, perulangan akan dilanjutkan dan apabila index bernilai 21, perulangan akan dibreak atau dihentikan secara paksa.
