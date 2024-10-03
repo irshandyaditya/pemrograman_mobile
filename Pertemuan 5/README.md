@@ -2,6 +2,7 @@
 Nama    : Irshandy Aditya Wicaksana
 Kelas   : TI-3A / 16
 NIM     : 2241720148
+Link    : https://github.com/irshandyaditya/flutter-fundamental-part1
 
 Praktikum 1:
 Langkah 1:
